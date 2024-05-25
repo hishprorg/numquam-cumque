@@ -1,3 +1,2 @@
-The algorithm continuously evaluates and scores open source software projects in supported package managers based on their impact and value to the OSS ecosystem.
-
-Simple support tea in reguide template can increase for an open source software project with an increasing number of dependents
+# @hishprorg/numquam-cumque
+这是超级美眉mysql帮助函数模块，用于便捷操作mysql，使用await方式，可以避免嵌套函数
